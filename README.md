@@ -1,1 +1,1 @@
-# hiedsurvey.github.io
+# Higher Education Research Survey website
